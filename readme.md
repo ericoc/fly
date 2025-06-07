@@ -1,6 +1,6 @@
-# _Fly_
+# _Sylvester_ the Fly
 
-This fly was caught in North Philadelphia in May 2025.
+_Sylvester_ the Fly was caught in northern _Philadelphia_ in _May 2025_.
 
 ![static/images/head_001.png](static/images/head_001.png)
 
