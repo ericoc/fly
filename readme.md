@@ -1,10 +1,12 @@
-# _Beatrice_ the (Carpenter) Bee
+# _Fly_
 
-_Beatrice_ was a female carpenter bee caught in North Philadelphia in May 2025.
+This fly was caught in North Philadelphia in May 2025.
 
-This source code makes up a website hosted at https://www.seas.upenn.edu/~ericoc/bee/
+![static/images/head_001.png](static/images/head_001.png)
 
-The website showcases microscopic images that were taken of _Beatrice_,
+This source code makes up a website hosted at https://www.seas.upenn.edu/~ericoc/fly/
+
+The website showcases microscopic images that were taken of a fly,
 using the [Quanta 600 FEG Environmental Scanning Electron Microscope](https://www.nano.upenn.edu/equipment/quanta-600-feg-esem/) (ESEM)
 at the [_Nanoscale Characterization Facility_](https://www.nano.upenn.edu/resources/nanoscale-characterization/) (NCF)
 at the [Krishna P. Singh Center for Nanotechnology](https://www.nano.upenn.edu/)
